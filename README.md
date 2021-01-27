@@ -1,4 +1,7 @@
 # YomoBar UdonSharp Scripts
-This repository contains UdonSharp scripts that are used in the YomoBar VRChat world
+This repository contains UdonSharp scripts that are I've written for use in the YomoBar VRChat world.
 
-Please use them however you like however I will not provide context or information in how they are used in the world.
+You are free to also use them however you like however I'm not providing context or information in how they have been used.
+
+My VRChat World: <https://vrchat.com/home/launch?worldId=wrld_db8ffd2e-db31-44d1-930c-fc52204e741a>
+UdonSharp: <https://github.com/MerlinVR/UdonSharp>
